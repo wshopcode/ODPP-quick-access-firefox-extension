@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "ODPP Systems Quick Access",
+    "version": "1.0",
+    "description": "Quick access to the most used systems in the ODPP.",
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "512": "icons/icon-512.png"
+
+      }
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
